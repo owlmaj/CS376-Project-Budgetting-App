@@ -1,3 +1,6 @@
+CS376 Software Development Project
+Victoria Coleman, Eli Joshua Garing, Ashir Judah, Philip Pitura, Joshua Zorn
+
 Material Design for Bootstrap
 
 Version: MDB Free 4.7.4
